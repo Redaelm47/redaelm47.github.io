@@ -1,0 +1,19 @@
+# Reda El Mekkaoui
+
+> Engineering student in applied mathematics and machine learning (one of France's leading engineering schools, 2025 to 2029). Looking for a 5-month AI / ML internship, March to August 2027.
+
+## Projects
+- AdistributionSystem: turns a mid-roll ad break into a short motion-design bridge written for each video, with Meta's models. Built solo in 8 days for the Meta Global AI Developer Hackathon, top 15% out of 20,000 participants, about $0.041 per video. https://github.com/Redaelm47/adistribution-system
+- Conformal prediction research: 13,000 PyTorch experiments on 5 datasets showed that a diversity-based sampling method's small gain came from a measurement bias.
+- On-board vision for an autonomous boat (French government agency, team of 6): ship detection with YOLO and registration reading on a Raspberry Pi, 30 s of video analysed in 17 s.
+- Neural network watermarking: 256-bit signature recovered with zero errors, accuracy above 99%, intact after pruning half of the weights. https://github.com/Redaelm47/neural-network-watermarking
+- Syllia: LLM assistant that drafts speech therapists' reports, patient identity masked, certified health-data hosting.
+- Web studio (founder and GTM engineer): 4 paying clients in the first month, prospecting and recurring work automated with AI agents.
+
+## Skills
+Python, PyTorch, CNNs, computer vision (YOLO, DINOv3), LLMs (Anthropic, Gemini, AWS Bedrock, Meta Muse), probability, statistics, optimisation, conformal prediction, TypeScript, Next.js, React, FastAPI, PostgreSQL, Raspberry Pi.
+
+## Links
+- CV: https://redaelm47.github.io/Reda-El-Mekkaoui-CV.pdf
+- GitHub: https://github.com/Redaelm47
+- LinkedIn: https://linkedin.com/in/reda-el-mekkaoui-472436383
